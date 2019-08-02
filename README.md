@@ -1,5 +1,7 @@
-# tftchampions
-A personal web project that aims to list Teamfight Tactics Champions in a dynamic and easy to read way.
+# Teamfight Tactics Champions InfoList
+## Motivation
+This is just a personal web project that aims to list Teamfight Tactics Champions in a dynamic and easy to read way.
+Note that it is still a work in progress.
 
 ## Disclaimer!
 All graphical content regarding characters, tiers, origins, classes and items, belong to Riot Games, Inc.
